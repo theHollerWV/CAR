@@ -1,4 +1,4 @@
-# CAR (CCOLAR)  
+# CAR (Cataloging, Archiving, and Retrieval)  
 Developement of an indexing model for AI using a hybrid methodology to: 
 Categorize data by assigning categories and using a hierarchical approach.
 Catalog sessions by storing them in a database with metadata and tags for reference.
